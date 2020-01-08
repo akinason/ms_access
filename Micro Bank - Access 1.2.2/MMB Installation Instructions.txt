@@ -1,0 +1,13 @@
+Instructions:
+
+1) Unzip the downloaded file, you should see a folder named "Micro Bank - Access 1.x.x" depending on the version
+2) Open the folder, you should see 1 folder and 4 files
+	-> Config
+	-> key.txt
+	-> MihmaMB.accdb
+	-> MihmaMB_1.0.0.exe
+	-> Tbl_Initialisation.xlsx
+3) Run the file MihmaMB_1.0.0.exe to install the application. This will create a folder in your drive C named "Mihma" and a desktop icon
+4) Go to C:\Mihma\MihmaMB\ and delete the file named MihmaMB.accdb and replace with the one in the folders above. This is because that one actually outdated and i have not had time to create another exec file containing the updated one. Thats why i included the updated MihmaMB.accdb in the zip folder.
+5) Copy the file named "Tbl_Initialisation.xlsx" to C:\Mihma\MihmaMB\ 
+6) Run the application using the icon on the desktop and enter the product key if you are requested to. They should be found in key.txt file.
